@@ -1,6 +1,6 @@
 # desafio6_LanguageStudio
 
-## Exemplo de Saída de análise
+## Exemplo de Saída de Análise de Sentimentos
 
 <pre>
 <code>
