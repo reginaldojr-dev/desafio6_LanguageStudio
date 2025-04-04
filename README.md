@@ -1,4 +1,6 @@
-# desafio6_LanguageStudio
+# Desafio Language Studio
+
+- O projeto buscou colocar em prática os conhecimentos adquiridos no módulo de "Serviços Cloud com foco em IA" do bootcamp Decola Tech 2025. 
 
 ## Exemplo de Saída de Análise de Sentimentos
 
