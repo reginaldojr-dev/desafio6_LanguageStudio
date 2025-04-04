@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__4035",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.06,
+                "neutral": 0.48,
+                "negative": 0.46
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.48,
+                        "negative": 0.46
+                    },
+                    "offset": 0,
+                    "length": 72,
+                    "text": "\"I was excited for my big work presentation, but everything went wrong.\"",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
